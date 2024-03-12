@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there 👋
+Fidelya Fredelina
+Information Engineering UGM 2022
 
-<!--
-**lindduncoding/lindduncoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Interests 🤯
+Here are my interest, you are welcome to DM me to discuss about these specific topics!
 
-Here are some ideas to get you started:
+### Cybersecurity
+But mostly privacy (GDPR, UU PDP), and more in the defense side of things (digital forensics, threat detection. etc). Don't imagine me doing crazy hacking stuff I'm not that kind of person 😫 (I'm not that good at CTF's too but I'm learning).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Machine Learning
+This is more of like a recent interest and I think it'll stay with me throughout my life... I like the math behind it! 
+
+## Future Plans 🤓
+I honestly want to build an AI/ML system to help with threat and vulnerability detection I think that'd be cool ngl.
+
+## Where To Find Me 🤔
+LinkedIn: https://www.linkedin.com/in/fidelya-fredelina-4521b024b/ \
+Instagram: @fsharpminor_
