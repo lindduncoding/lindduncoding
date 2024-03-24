@@ -16,4 +16,5 @@ I honestly want to build an AI/ML system to help with threat and vulnerability d
 
 ## Where To Find Me 🤔
 LinkedIn: https://www.linkedin.com/in/fidelya-fredelina-4521b024b/ \
-Instagram: @fsharpminor_
+Instagram: @fsharpminor_ \
+Email: fidelyafredelina@mail.ugm.ac.id
