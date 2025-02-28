@@ -7,7 +7,7 @@ Universitas Gadjah Mada Batch 2022
 Here are my interest, you are welcome to DM me to discuss about these specific topics!
 
 ### Cybersecurity
-But mostly privacy (GDPR, UU PDP), and more in the defense side of things (digital forensics, threat detection, malware analysis etc). I'm also interested in administrating the infrastructure (cloud) in general. Don't imagine me doing crazy hacking stuff I'm not that kind of person, yet! (I'm not that good at CTF's too but I'm still learning).
+I was introduced to cybersecurity from data privacy and governance (GDPR, UU PDP, HIPPA, etc). More keen to work in the defense side of things (digital forensics, threat detection, malware analysis, just to name a few). Actively learning Web Exploitation through HackTheBox and Binary Analysis. Don't imagine me doing crazy hacking stuff I'm not that kind of person, yet! (I'm not that good at CTF's too but I'm always learning).
 
 ### IT Infrastructure
 I am currently learning about setting up my own virtual home lab. I'm starting to explore containers and cloud services first because of their portability and expandibility. Afterwards I want to try self hosting using a more physical approach, like spinning up my own NAS server with secure configuration using Tailscale VPN!
