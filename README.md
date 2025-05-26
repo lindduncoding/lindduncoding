@@ -4,13 +4,14 @@ Information Engineering \
 Universitas Gadjah Mada Batch 2022
 
 ## Interests 🤯
-Here are my interest, you are welcome to DM me to discuss about these specific topics!
+Here are my interests, you are welcome to DM me to discuss about these specific topics!
 
 ### Cybersecurity
 I was introduced to cybersecurity from data privacy and governance (GDPR, UU PDP, HIPPA, etc). I'm more keen to work on the defense side of things (digital forensics, threat detection, malware analysis, just to name a few). Currently passionate about:
 - Cloud Hacking (from various Cloud Goat labs and just messing around with cloud deployment)
 - Web Exploitation (from HackTheBox)
-- Binary Analysis (on an _indefinite_ hiatus) \
+- Binary Analysis (on an _indefinite_ hiatus)
+
 Don't imagine me doing crazy hacking stuff I'm not that kind of person, *yet!*
 
 ### Backend/Server-side Web Development
